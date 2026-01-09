@@ -17,7 +17,7 @@ Sou um **Profissional Híbrido**: transito na fronteira entre o Desenvolvimento 
 
 ---
 
-### 🛠️ Minha Stack Tecnológica (The Arsenal)
+### 🛠️ Minha Stack Principal
 
 Não me prendo a ferramentas, mas escolho a melhor para cada missão. Atualmente, meu foco é **JavaScript/TypeScript** para construção de produtos e **Python** para inteligência e automação.
 
@@ -53,7 +53,7 @@ Não me prendo a ferramentas, mas escolho a melhor para cada missão. Atualmente
 
 Eu acredito no **"Shift Left"**: Qualidade, Segurança e Infraestrutura devem ser pensadas antes da primeira linha de código.
 
-* **Automação Primeiro:** Se eu tenho que fazer mais de duas vezes, eu crio um script (Python/Bash).
+* **Automação Primeiro:** Se eu tenho que fazer mais de duas vezes, eu crio um script.
 * **Decisões Data-Driven:** Uso SQL e ferramentas de BI para auditar dados e guiar arquiteturas.
 * **Visão de Negócio:** Graças ao Direito, entendo contratos, SLA e Compliance (LGPD), traduzindo "juridiquês" para código funcional.
 

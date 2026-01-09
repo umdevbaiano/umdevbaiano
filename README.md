@@ -2,7 +2,7 @@
 
 ### Engenheiro de Software | Full Stack & DevOps | Founder
 
-> *"O código mais bonito é aquele que resolve o problema, escala com eficiência e não cai em produção."*
+> *"Engenharia de Software com mentalidade de NOC: crio sistemas que não apenas funcionam, mas sobrevivem ao mundo real."*
 
 ---
 

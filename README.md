@@ -1,16 +1,81 @@
-## Hi there 👋
+# Olá, eu sou Samuel Miranda! 👋
 
-<!--
-**umdevbaiano/umdevbaiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenheiro de Software | Full Stack & DevOps | Founder
 
-Here are some ideas to get you started:
+> *"O código mais bonito é aquele que resolve o problema, escala com eficiência e não cai em produção."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre Mim
+
+Minha jornada com tecnologia começou cedo, **aos 8 anos**, explorando as primeiras linhas de código. O que começou como curiosidade tornou-se minha profissão e paixão.
+
+Sou um **Profissional Híbrido**: transito na fronteira entre o Desenvolvimento de Software e a Engenharia de Infraestrutura.
+* 🎓 **Background Acadêmico:** Unindo a lógica computacional da **Engenharia de Software** com o rigor analítico e normativo do **Direito**.
+* 🚀 **Atuação Atual:** Tech Lead e Fundador na **VettaHub**, desenvolvendo arquiteturas SaaS escaláveis.
+* ⚙️ **Raízes:** Minha experiência em **NOC e Telecom** moldou minha mentalidade: desenvolvo softwares "à prova de falhas", com observabilidade e performance nativas.
+
+---
+
+### 🛠️ Minha Stack Tecnológica (The Arsenal)
+
+Não me prendo a ferramentas, mas escolho a melhor para cada missão. Atualmente, meu foco é **JavaScript/TypeScript** para construção de produtos e **Python** para inteligência e automação.
+
+#### **Backend & Arquitetura**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1f425f?style=for-the-badge&logo=micro-bit&logoColor=white)
+
+#### **Frontend & Interface**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **DevOps, Infraestrutura & Automação**
+*Minha "vantagem injusta". Onde garanto que o software roda liso.*
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-d40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+#### **Banco de Dados**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ⚡ Metodologia de Trabalho
+
+Eu acredito no **"Shift Left"**: Qualidade, Segurança e Infraestrutura devem ser pensadas antes da primeira linha de código.
+
+* **Automação Primeiro:** Se eu tenho que fazer mais de duas vezes, eu crio um script (Python/Bash).
+* **Decisões Data-Driven:** Uso SQL e ferramentas de BI para auditar dados e guiar arquiteturas.
+* **Visão de Negócio:** Graças ao Direito, entendo contratos, SLA e Compliance (LGPD), traduzindo "juridiquês" para código funcional.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/samuelmiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</div>

@@ -1,14 +1,22 @@
-# Olá, eu sou o Samuel! 👋
+# Samuel Miranda
+### **Software Engineering | Cybersecurity & Infrastructure Specialist | 8x HCIA Huawei**
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Direito** (3º semestre). Minha base profissional vem do setor de **Telecom/NOC**, o que me deu uma visão prática de redes e infraestrutura que aplico hoje no desenvolvimento de software e na segurança da informação.
-
-Sou fundador da **VettaHub**, onde foco na arquitetura de sistemas SaaS, e estou me especializando em **Segurança Ofensiva (Pentest)** para construir aplicações resilientes.
+**Fullstack Software Engineer.**  
+Architecture-driven development focused on availability and security.  
+Specializing in Offensive Security (Pentesting).
 
 ---
 
-### 🛠️ Stacks e Ferramentas
+### 🛠️ Stack & Tools
 
-#### **Backend & Automação**
+#### **Cybersecurity & Infrastructure**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei_Certified-FF0000?style=flat-square&logo=huawei&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-d40000?style=flat-square&logo=zabbix&logoColor=white)
+
+#### **Backend & Automation**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -21,30 +29,31 @@ Sou fundador da **VettaHub**, onde foco na arquitetura de sistemas SaaS, e estou
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### **Cybersecurity & Infra**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei_Certified-FF0000?style=flat-square&logo=huawei&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-d40000?style=flat-square&logo=zabbix&logoColor=white)
-
-#### **Banco de Dados**
+#### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-### 🛡️ Cybersecurity & Compliance
+### 🛡️ Cybersecurity
 
-Além do desenvolvimento, atuo na análise de vulnerabilidades e segurança de infraestrutura. Pelo meu background em Direito, trabalho com foco em **LGPD e Compliance**, unindo a parte técnica de segurança (Firewalls, VPNs, Logs) com as exigências normativas.
+Vulnerability analysis and infrastructure security.  
+LGPD and compliance aligned with technical controls (firewalls, VPNs, logs) and regulatory requirements.
 
-**Certificações Huawei (HCIA):**
-*Datacom, Security, Cloud Computing, Storage, AI, 5G, Big Data e openEuler.*
+**Huawei Certifications (8x HCIA):**
+* **HCIA-Datacom** (Routing & Switching)
+* **HCIA-Security** (Cybersecurity)
+* **HCIA-Cloud Computing**
+* **HCIA-Cloud Service**
+* **HCIA-openGauss** (Database)
+* **HCIA-openEuler** (Linux)
+* **HCIA-WLAN**
+* **HCIA-AI**
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <div align="left">
   <a href="https://linkedin.com/in/samuellmiranda" target="_blank">
